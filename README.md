@@ -1,4 +1,4 @@
-Communication system assignment 
+Communication system assignment Using Arduino UNO
 
 
 This Transmitter Arduino sketch generates a **sine** wave and sends the values to another Arduino.It uses the Serial communication for data transmission.
